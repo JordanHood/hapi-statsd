@@ -10,7 +10,7 @@
 		"hoek": "^5.0.2"
 	},
 	"devDependencies": {
-		"mocha": "^4.0.1",
+		"mocha": "^6.2.0",
 		"jshint": "^2.9.4",
 		"travis-cov": "0.x.x",
 		"blanket": "^1.2.3",
