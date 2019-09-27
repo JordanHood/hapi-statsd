@@ -6,7 +6,7 @@
 	],
 	"version": "7.0.0",
 	"dependencies": {
-		"statsd-client": "^0.2.4",
+		"statsd-client": "^0.4.4",
 		"hoek": "^5.0.2"
 	},
 	"devDependencies": {
